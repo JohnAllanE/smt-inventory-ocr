@@ -1,2 +1,3 @@
 .venv/
-images*
+images/
+.DS_Store
