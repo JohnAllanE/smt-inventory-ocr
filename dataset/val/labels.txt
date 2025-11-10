@@ -1,0 +1,76 @@
+img_8_seg_13.png	Desc
+img_8_seg_8.png	PN
+img_8_seg_12.png	Part
+img_1_seg_3.png	DigiKey
+img_0_seg_38.png	Quantity 194
+img_11_seg_17.png	2416
+img_1_seg_19.png	COO
+img_8_seg_9.png	CAY16-1001F4LFCT-ND
+img_9_seg_27.png	MID 1962049
+img_5_seg_5.png	701 Brooks Ave South, Thief River Falls, MN 56701 USA
+img_7_seg_14.png	CREF
+img_9_seg_0.png	INV#108473720
+img_4_seg_9.png	RC0805FR-07243RL
+img_7_seg_32.png	TE CONNECTIVITY PASSIVE PRODUCT
+img_3_seg_17.png	2145
+img_11_seg_12.png	Part
+img_7_seg_22.png	TH
+img_1_seg_20.png	TW
+img_7_seg_12.png	Desc
+img_2_seg_23.png	TW
+img_0_seg_15.png	Desc
+img_7_seg_27.png	MSL 1
+img_11_seg_29.png	MID
+img_0_seg_0.png	INV #109086917
+img_2_seg_11.png	Part
+img_8_seg_5.png	PO#
+img_0_seg_26.png	TW
+img_1_seg_10.png	Desc
+img_0_seg_9.png	PN
+img_2_seg_9.png	MFR PN
+img_10_seg_3.png	IDX: 10
+img_8_seg_28.png	MSL 1
+img_1_seg_6.png	PN
+img_6_seg_16.png	IDX: 7
+img_6_seg_1.png	701 Brooks Ave South
+img_4_seg_16.png	Lot
+img_3_seg_2.png	SO# 90202497
+img_4_seg_26.png	MSL 1
+img_3_seg_9.png	RMCF0603FT1R00CT-ND
+img_11_seg_32.png	008996338
+img_3_seg_28.png	MID
+img_10_seg_6.png	701 Brooks Ave South, Thief River Falls, MN 56701 USA
+img_0_seg_22.png	Code
+img_0_seg_34.png	008663087
+img_7_seg_18.png	13769867
+img_11_seg_22.png	COO
+img_10_seg_28.png	iD 3845253
+img_0_seg_32.png	MID  14312628
+img_1_seg_21.png	XF1D
+img_9_seg_7.png	541-3.00HHCT-ND
+img_2_seg_17.png	Lot
+img_9_seg_23.png	RoHS
+img_10_seg_10.png	PN
+img_11_seg_21.png	Code
+img_9_seg_29.png	008127705
+img_0_seg_5.png	PO#
+img_5_seg_10.png	Part
+img_1_seg_9.png	RT0603BRD0743KL
+img_7_seg_25.png	RoHS
+img_3_seg_19.png	TI456B03HP
+img_2_seg_6.png	701 Brooks Ave South, Thief River Falls, MN 56701 USA
+img_7_seg_7.png	PN
+img_3_seg_11.png	RMCF0603FT1R00
+img_3_seg_5.png	PO#
+img_11_seg_4.png	DigiKey
+img_2_seg_5.png	PO#
+img_6_seg_19.png	MSL 1
+img_0_seg_3.png	IDX: 2
+img_0_seg_18.png	Date
+img_10_seg_2.png	S0# 91379716
+img_7_seg_19.png	Code
+img_10_seg_1.png	05-MAR-2025 08:04
+img_1_seg_29.png	006348960
+img_7_seg_9.png	MFR PN
+img_2_seg_15.png	Date
+img_2_seg_28.png	MSL 1

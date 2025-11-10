@@ -1,0 +1,304 @@
+img_2_seg_10.png	CAY16-2001F4LF
+img_7_seg_0.png	INV#106456327
+img_9_seg_12.png	Desc
+img_3_seg_14.png	RES 1 OHM 1Y 1/10W 0603
+img_6_seg_10.png	Part Description
+img_3_seg_15.png	CREF
+img_7_seg_5.png	701 Brooks Ave South,
+img_11_seg_8.png	PN
+img_9_seg_14.png	CREF
+img_2_seg_8.png	118-CAYI6-2001F4LFCT-ND
+img_2_seg_27.png	ROHS3 COMP
+img_7_seg_26.png	ROHS3 COMP
+img_0_seg_16.png	RES ARRAY 4 RES 2K OHM 1206
+img_1_seg_33.png	Part
+img_4_seg_7.png	311-243CRCT-ND
+img_0_seg_7.png	South, Thief River
+img_5_seg_12.png	RES SMD 56K OHM 0.1% 1/10W 0603
+img_7_seg_11.png	Part
+img_10_seg_21.png	Code
+img_11_seg_23.png	TW
+img_3_seg_10.png	MFR PN
+img_11_seg_6.png	701 Brooks Ave South
+img_11_seg_26.png	RoHS
+img_8_seg_31.png	008663087
+img_1_seg_25.png	MSL 1
+img_7_seg_31.png	006348960
+img_11_seg_16.png	Date
+img_4_seg_27.png	31-MAY-2024 12:56
+img_7_seg_28.png	08-AUG - 2024 15:11
+img_4_seg_13.png	CREF
+img_0_seg_17.png	CREF
+img_9_seg_9.png	PN
+img_0_seg_25.png	COO
+img_4_seg_5.png	701 Brooks Ave South, Thief River Falls MN 56701 USA
+img_10_seg_17.png	2203
+img_11_seg_5.png	PO#
+img_9_seg_26.png	15-NOV-2024 15:28
+img_5_seg_4.png	PO#
+img_10_seg_19.png	PC2119CF6
+img_10_seg_27.png	MSL 1
+img_11_seg_30.png	729994
+img_9_seg_4.png	PO#
+img_7_seg_3.png	DigiKey
+img_5_seg_0.png	INV#106456327
+img_3_seg_26.png	RoHS ROHS3 COMP
+img_8_seg_24.png	XF1D
+img_3_seg_20.png	Code
+img_6_seg_3.png	DigiKey
+img_5_seg_2.png	IDX: 2
+img_0_seg_19.png	2130
+img_4_seg_24.png	RoHS
+img_2_seg_12.png	Desc
+img_4_seg_0.png	INV#105098160
+img_4_seg_8.png	MFR PN
+img_9_seg_6.png	PN
+img_1_seg_0.png	INV#106456327
+img_11_seg_11.png	RC0603FR-O721RL
+img_11_seg_10.png	MFR PN
+img_5_seg_18.png	Code
+img_5_seg_19.png	Code
+img_1_seg_24.png	ROHS3 COMP
+img_3_seg_12.png	Part
+img_4_seg_20.png	COO
+img_0_seg_6.png	701 Brooks
+img_10_seg_18.png	Lot
+img_8_seg_34.png	Quantity 300
+img_0_seg_10.png	118-CAYI6-2001F4LFCT-ND
+img_5_seg_14.png	Date
+img_3_seg_4.png	DigiKey
+img_2_seg_14.png	CREF
+img_10_seg_16.png	Date
+img_7_seg_2.png	IDX: 5
+img_5_seg_32.png	Quantity 100
+img_6_seg_18.png	ROHS3 COMP
+img_9_seg_17.png	Lot Code
+img_4_seg_21.png	TW
+img_2_seg_22.png	COO
+img_5_seg_13.png	CREF
+img_4_seg_15.png	2334
+img_6_seg_21.png	002243942
+img_2_seg_26.png	RoHS
+img_2_seg_2.png	SO # 90202497
+img_3_seg_24.png	XF1D
+img_2_seg_31.png	008663087
+img_4_seg_11.png	Desc
+img_9_seg_2.png	IDX: 4
+img_2_seg_32.png	BOURNS INC
+img_8_seg_18.png	Lot
+img_2_seg_1.png	17-DEC - 2024 12:47
+img_0_seg_23.png	Code
+img_1_seg_1.png	S0#88146567
+img_4_seg_12.png	RES 243 OHM 1% 1/8W 0805
+img_3_seg_23.png	TW
+img_2_seg_0.png	INV#109086917
+img_5_seg_9.png	ERA-3AEB563V
+img_6_seg_5.png	1943030
+img_6_seg_9.png	RMCF0603FT4K02
+img_9_seg_15.png	Date Code
+img_5_seg_17.png	5214617838
+img_3_seg_27.png	MSL 1
+img_4_seg_14.png	Date
+img_6_seg_28.png	Quantity
+img_2_seg_19.png	-
+img_10_seg_26.png	ROHS3 COMP
+img_8_seg_21.png	Code
+img_10_seg_5.png	PO#
+img_6_seg_0.png	14-12-2023 12:42
+img_9_seg_1.png	S0#89722433
+img_5_seg_20.png	COO
+img_9_seg_11.png	Part
+img_8_seg_15.png	CREF
+img_6_seg_2.png	Thief River Falls, MN 56701 USA
+img_8_seg_26.png	RoHS
+img_3_seg_32.png	STACKPOLE ELECTRONICS INC
+img_1_seg_2.png	IDX: 1
+img_0_seg_11.png	MFR
+img_8_seg_2.png	S0# 90202497
+img_5_seg_22.png	XF1D
+img_10_seg_8.png	490-6053-1-ND
+img_3_seg_13.png	Desc
+img_5_seg_16.png	Lot
+img_8_seg_0.png	INV#109086917
+img_10_seg_14.png	CAP CER 0.022uF 25V X7R 0603
+img_3_seg_18.png	Lot
+img_11_seg_3.png	IDX: 11
+img_11_seg_19.png	38N0540539
+img_8_seg_19.png	T4344B01ZP
+img_11_seg_14.png	RES 21 OHM 1% 1/10W 0603
+img_5_seg_1.png	SO# 88146567
+img_7_seg_13.png	RES 220 OHM 5% 1/10W 0603
+img_4_seg_4.png	PO#
+img_4_seg_22.png	XF1D
+img_6_seg_6.png	Part Number
+img_6_seg_4.png	Master Part ID
+img_11_seg_27.png	ROHS3 COMP
+img_0_seg_2.png	SO#90202497
+img_6_seg_11.png	RES 4.02K OHM 1% 1/10W 0603
+img_3_seg_16.png	Date
+img_10_seg_20.png	Code
+img_6_seg_29.png	50
+img_0_seg_27.png	XF1D
+img_3_seg_21.png	Code
+img_9_seg_5.png	701 Brooks Ave South, Thief River Falls, MH 56701 USA
+img_7_seg_4.png	PO#
+img_9_seg_13.png	RES SMD 3 OHM 1% 1/10W 0603
+img_10_seg_11.png	GCH188R71E223KA37D
+img_3_seg_29.png	2417978
+img_2_seg_7.png	PN
+img_9_seg_20.png	IL
+img_0_seg_31.png	MSL 1
+img_2_seg_16.png	2149
+img_11_seg_9.png	311-21.0HRCT-ND
+img_3_seg_8.png	PN
+img_7_seg_29.png	MID 8577919
+img_7_seg_17.png	Lot
+img_4_seg_1.png	SO# 87092845
+img_5_seg_21.png	JP
+img_8_seg_22.png	COO
+img_1_seg_8.png	MFR PN
+img_11_seg_34.png	Quantity
+img_1_seg_32.png	Quantity 100
+img_8_seg_29.png	MID 3437891
+img_2_seg_18.png	T1494B068P
+img_5_seg_24.png	RoHS  ROHS3 COMP
+img_2_seg_3.png	IDX: 2
+img_4_seg_28.png	MID 730710
+img_0_seg_12.png	PN
+img_0_seg_40.png	Falls,
+img_0_seg_30.png	ROHS COMP
+img_5_seg_7.png	P56KDBCT-ND
+img_4_seg_10.png	Part
+img_9_seg_16.png	2340
+img_11_seg_15.png	CREF
+img_4_seg_18.png	Code
+img_7_seg_8.png	A130087CT-ND
+img_7_seg_1.png	SO# 88146567
+img_3_seg_35.png	River
+img_2_seg_29.png	MID 14312628
+img_11_seg_7.png	Thief River Falls MN 56701 USA
+img_1_seg_15.png	Lot
+img_7_seg_20.png	Code
+img_8_seg_32.png	BOURNS INC
+img_9_seg_3.png	DigiKey
+img_5_seg_15.png	230807
+img_1_seg_5.png	701 Brooks Ave South, Thief River Falls MH 55701 USA
+img_11_seg_20.png	Code
+img_6_seg_13.png	Purchase Order
+img_8_seg_1.png	17-DEC-2024 12:52
+img_9_seg_33.png	Quantity 10
+img_0_seg_4.png	DigiKey
+img_8_seg_3.png	IDX: 3
+img_10_seg_25.png	RoHS
+img_3_seg_1.png	17-DEC-2024 12:48
+img_7_seg_6.png	Thief River Falls, MN 56701 USA
+img_10_seg_9.png	MFR
+img_6_seg_23.png	N
+img_5_seg_8.png	MFR PN
+img_2_seg_34.png	Quantity 306
+img_6_seg_25.png	Lot CCode T2326B0AHPR
+img_1_seg_26.png	08-AUG - 2024 15:12
+img_1_seg_11.png	RES SMD 43K OHM 0.1% 1/10W 0603
+img_0_seg_36.png	BOURNS INC
+img_8_seg_14.png	RES ARRAY 4 RES 1K OHM 1206
+img_6_seg_7.png	RMCF0603FT4K02CT-ND
+img_10_seg_22.png	COO PH
+img_0_seg_29.png	RoHS
+img_9_seg_19.png	COO
+img_7_seg_10.png	CRGCQ0603J220R
+img_8_seg_7.png	MN 56701 USA
+img_4_seg_32.png	Quantity 10
+img_10_seg_7.png	PN
+img_4_seg_6.png	PN
+img_1_seg_27.png	MID 6616713
+img_4_seg_3.png	DigiKey
+img_3_seg_31.png	008663087
+img_0_seg_8.png	MN 56701 USA
+img_1_seg_30.png	YAGEO
+img_0_seg_14.png	Part
+img_4_seg_25.png	ROHS3 COMP
+img_1_seg_4.png	Po#
+img_11_seg_1.png	10-JAN-2025 15:10
+img_10_seg_23.png	XF1D
+img_6_seg_26.png	Manufacturer
+img_8_seg_27.png	ROHS3 COMP
+img_10_seg_12.png	Part
+img_7_seg_16.png	22134
+img_6_seg_15.png	84547895
+img_6_seg_22.png	COO
+img_9_seg_10.png	CRCW06033R900FKEA
+img_10_seg_34.png	Quantity 10
+img_7_seg_33.png	Quantity
+img_11_seg_24.png	XF1D
+img_11_seg_0.png	INV#109463631
+img_9_seg_18.png	ST23410009
+img_8_seg_16.png	Date
+img_6_seg_8.png	Manufacturer Part Number
+img_4_seg_31.png	YAGEO
+img_1_seg_7.png	YAG4557CT-ND
+img_6_seg_27.png	STACKPOLE ELECTRONICS INC
+img_5_seg_29.png	006348960
+img_9_seg_25.png	MSL 1
+img_8_seg_6.png	701 Brooks Ave South, Thief River Falls
+img_3_seg_6.png	701 Brooks Ave South, Thief
+img_1_seg_17.png	Code
+img_0_seg_1.png	17-DEC - 2024 12:47
+img_1_seg_13.png	Date
+img_2_seg_13.png	RES ARRAY 4 RES 2K OHM 1206
+img_6_seg_12.png	Customer Reference
+img_0_seg_39.png	Ave
+img_8_seg_10.png	MFR PN
+img_2_seg_24.png	XF1D
+img_1_seg_16.png	18M0420221
+img_8_seg_11.png	CAY16- I001F4LF
+img_7_seg_21.png	COO
+img_0_seg_13.png	CAY16- 2001F4LF
+img_10_seg_0.png	INV#110694868
+img_2_seg_21.png	Code
+img_8_seg_20.png	Code
+img_5_seg_3.png	DigiKey
+img_10_seg_13.png	Desc
+img_11_seg_28.png	MSL 1
+img_4_seg_2.png	IDX: 5
+img_9_seg_21.png	XF1D
+img_11_seg_18.png	Lot
+img_10_seg_4.png	DigiKey
+img_7_seg_23.png	XF1D
+img_1_seg_18.png	Code
+img_1_seg_14.png	2313
+img_5_seg_11.png	Desc
+img_5_seg_27.png	MID 1466094
+img_11_seg_33.png	| YAGEO
+img_5_seg_25.png	MSL 1
+img_5_seg_6.png	PN
+img_1_seg_23.png	RoHS
+img_1_seg_12.png	CREF
+img_10_seg_32.png	MURATA ELECTRONICS
+img_7_seg_15.png	Date
+img_7_seg_34.png	500
+img_0_seg_21.png	TI304B00RP-
+img_9_seg_31.png	VISHAY DALE
+img_4_seg_30.png	005156434
+img_8_seg_23.png	TW
+img_5_seg_30.png	PANASONIC ELECTRONIC COMPONENTS
+img_9_seg_8.png	MFR
+img_10_seg_30.png	010001508
+img_8_seg_4.png	DigiKey
+img_9_seg_24.png	ROHS3 COMP
+img_4_seg_17.png	38M2130002
+img_3_seg_34.png	Quantity 150
+img_4_seg_19.png	Code
+img_11_seg_13.png	Desc
+img_3_seg_0.png	INV#109086917
+img_2_seg_20.png	Code
+img_10_seg_15.png	CREF
+img_6_seg_24.png	Date Code
+img_3_seg_22.png	COO
+img_11_seg_36.png	150
+img_0_seg_20.png	Lot
+img_5_seg_26.png	08-AUG-2024 15:11
+img_2_seg_4.png	DigiKey
+img_3_seg_7.png	Falls, MH 56701 USA
+img_8_seg_17.png	2434
+img_11_seg_2.png	S0# 90472396
+img_3_seg_3.png	IDX: 10
